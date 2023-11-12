@@ -22,4 +22,5 @@ events.*
 
 # Generated images and patches
 predicted_masks/
+imgs/
 *.torch
